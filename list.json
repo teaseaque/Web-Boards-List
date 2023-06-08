@@ -1,23 +1,18 @@
 [
     {
-      "commit" : "main",
       "repoName" : "Animals",
-      "repoId" : 633976987,
-      "ownerID" : 26340268,
       "ownerName" : "teaseaque"
     },
     {
-      "commit" : "main",
       "repoName" : "Eagles",
-      "repoId" : 633981579,
-      "ownerID" : 26340268,
       "ownerName" : "teaseaque"
     },
     {
-      "commit" : "main",
       "repoName" : "Random",
-      "repoId" : 636461651,
-      "ownerID" : 26340268,
       "ownerName" : "teaseaque"
+    },
+    {
+      "repoName" : "Birds",
+      "ownerName" : "snbd-app"
     }
 ]
