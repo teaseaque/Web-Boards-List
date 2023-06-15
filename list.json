@@ -4,15 +4,19 @@
       "ownerName" : "teaseaque"
     },
     {
-      "repoName" : "Eagles",
-      "ownerName" : "teaseaque"
-    },
-    {
       "repoName" : "Random",
       "ownerName" : "teaseaque"
     },
     {
       "repoName" : "Birds",
       "ownerName" : "snbd-app"
-    }
+    },
+    {
+      "repoName" : "Instruments",
+      "ownerName" : "teaseaque"
+    },
+    {
+      "repoName" : "Eagles",
+      "ownerName" : "teaseaque"
+    },
 ]
