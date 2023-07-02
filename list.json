@@ -4,8 +4,8 @@
       "ownerName" : "snbd-app"
     },
     {
-      "repoName" : "Random",
-      "ownerName" : "snbd-app"
+      "repoName" : "Rappers",
+      "ownerName" : "teaseaque"
     },
     {
       "repoName" : "Automobiles",
@@ -18,5 +18,9 @@
     {
       "repoName" : "Birds",
       "ownerName" : "snbd-app"
+    },
+    {
+      "repoName" : "Eagles",
+      "ownerName" : "teaseaque"
     }
 ]
