@@ -4,11 +4,7 @@
       "ownerName" : "snbd-app"
     },
     {
-      "repoName" : "Rappers",
-      "ownerName" : "teaseaque"
-    },
-    {
-      "repoName" : "Alphabet",
+      "repoName" : "Numbers",
       "ownerName" : "snbd-app"
     },
     {
@@ -20,12 +16,20 @@
       "ownerName" : "snbd-app"
     },
     {
-      "repoName" : "Colors",
+      "repoName" : "Alphabet",
       "ownerName" : "snbd-app"
     },
     {
       "repoName" : "Birds",
       "ownerName" : "snbd-app"
+    },
+    {
+      "repoName" : "Colors",
+      "ownerName" : "snbd-app"
+    },
+    {
+      "repoName" : "Rappers",
+      "ownerName" : "teaseaque"
     },
     {
       "repoName" : "Eagles",
